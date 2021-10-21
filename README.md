@@ -11,5 +11,5 @@ Ce projet contient quatre scripts :
 
 Quatre jeux de données ont été utilisés : 
 - Fake.csv & True.csv importés depuis Kaggle contenant plus de 40 000 articles au total
-- Gloves100db pour les pre-trained word embeddings depuis Keras
+- Gloves pour les pre-trained word embeddings : https://nlp.stanford.edu/projects/glove/
 - notre_base : contenants une trentaine d'articles traduits en anglais créés par nos soins
